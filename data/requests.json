@@ -3,8 +3,8 @@
     "id": 1,
     "title": "Не работает личный кабинет",
     "user_name": "Иван Петров",
-    "priority": "high",
-    "status": "new",
+    "priority": "высокий",
+    "status": "новая",
     "created_at": "2026-09-17T09:00",
     "response_limit_hours": 4
   },
@@ -12,8 +12,8 @@
     "id": 2,
     "title": "Вопрос по оплате подписки",
     "user_name": "Анна Смирнова",
-    "priority": "normal",
-    "status": "in_progress",
+    "priority": "обычный",
+    "status": "в работе",
     "created_at": "2026-09-17T13:00",
     "response_limit_hours": 8
   },
@@ -21,9 +21,18 @@
     "id": 3,
     "title": "Предложение по улучшению интерфейса",
     "user_name": "Максим Орлов",
-    "priority": "normal",
-    "status": "closed",
+    "priority": "обычный",
+    "status": "закрыта",
     "created_at": "2026-09-16T10:00",
     "response_limit_hours": 24
+  },
+  {
+    "id": 4,
+    "title": "тест",
+    "user_name": "макс",
+    "priority": "высокий",
+    "status": "новая",
+    "created_at": "2026-09-17T16:29",
+    "response_limit_hours": 2
   }
 ]

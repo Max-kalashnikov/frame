@@ -21,7 +21,7 @@ from storage import (
     save_users,
 )
 from users import User
-from utils import input_choice, input_int, input_text
+from utils import input_choice, input_int, input_text 
 
 DATA_DIR = Path("data")
 REQUESTS_FILE = DATA_DIR / "requests.json"
